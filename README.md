@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 ----->
 ![banner3](https://user-images.githubusercontent.com/63976360/234881376-8046f7fd-4454-4db8-a256-ab00a2f847b7.png)
 ### Hi there 👋
+Profile Hits:[![HitCount](https://hits.dwyl.com/{username}/{project-name}.svg)](https://hits.dwyl.com/{username}/{project-name})
