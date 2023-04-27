@@ -2,6 +2,8 @@
 
 <!--
 **simply-lisa/simply-lisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![banner3](https://user-images.githubusercontent.com/63976360/234881376-8046f7fd-4454-4db8-a256-ab00a2f847b7.png)
 ![Header](./banner3.png)
 Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
