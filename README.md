@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ----->
 ![banner3](https://user-images.githubusercontent.com/63976360/234881376-8046f7fd-4454-4db8-a256-ab00a2f847b7.png)
 ### Hi there 👋
-Profile Views: [![HitCount](https://hits.dwyl.com/{simply-lisa}/{simply-lisa}.svg)](https://hits.dwyl.com/{simply-lisa}/{simply-lisa})
+[![HitCount](https://hits.dwyl.com/simply-lisa/simply-lisa.svg?style=flat-square)](http://hits.dwyl.com/simply-lisa/simply-lisa)
