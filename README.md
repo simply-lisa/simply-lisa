@@ -35,3 +35,8 @@ Languages/Tech Stack:<br>
 ![keras](https://user-images.githubusercontent.com/63976360/234907933-1d71ebd7-1e0e-480b-bde0-fe7fac570f7f.svg)
 ![tensorflow](https://user-images.githubusercontent.com/63976360/234907994-60092c6c-c55c-4ec8-b553-f557844f5f4a.svg)
 ![conda](https://user-images.githubusercontent.com/63976360/234908085-ea3afe08-2435-4682-ac9a-585bee798f16.svg)
+<br>
+### My latest Medium Blogs
+<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Lisa Asafo-Adjei/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asafoadjeilisa/0" alt="Recent Article 0"> 
+
