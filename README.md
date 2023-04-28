@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ----->
 ![banner3](https://user-images.githubusercontent.com/63976360/234881376-8046f7fd-4454-4db8-a256-ab00a2f847b7.png)
 ### Hi there 👋
-[![HitCount](https://hits.dwyl.com/simply-lisa/simply-lisa.svg?style=flat-square)](http://hits.dwyl.com/simply-lisa/simply-lisa)
+Profile Views: [![HitCount](https://hits.dwyl.com/simply-lisa/simply-lisa.svg?style=flat-square)](http://hits.dwyl.com/simply-lisa/simply-lisa)
 
 Languages/Tech Stack:<br>
 ![mysql](https://user-images.githubusercontent.com/63976360/234907817-f91e5ab1-7660-42d1-b515-612a36a5f398.svg)
