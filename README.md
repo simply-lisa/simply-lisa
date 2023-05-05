@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ![banner3](https://user-images.githubusercontent.com/63976360/234881376-8046f7fd-4454-4db8-a256-ab00a2f847b7.png)
 ### Hi there 👋
  [![HitCount](https://hits.dwyl.com/simply-lisa/simply-lisa.svg?style=flat-square)](http://hits.dwyl.com/simply-lisa/simply-lisa)
-- 🔭 I’m currently working on a multifaceted project on Predicting Hotel Cancellation
+- 🔭 I’m currently working on a multifaceted project on Predicting Hotel Cancellations
 - 🌱 I’m currently learning AWS 
 - 💬 Ask me about anything 
 - 😄 Pronouns: She/Her
