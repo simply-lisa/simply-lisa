@@ -5,24 +5,23 @@
 
 Here are some ideas to get you started:
 ** [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-- 🔭 I’m currently working on Predicting Hotel Cancellations
-- 🌱 I’m currently learning AWS 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything 
-- 📫 How to reach me: 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
-  
-👩‍🎓 Before switching to Data Science, I'm a Marketing enthusiast who got a Bachelor's Degree in Business.
-📫 I play the piano
 ----->
+
+
 ![banner3](https://user-images.githubusercontent.com/63976360/234881376-8046f7fd-4454-4db8-a256-ab00a2f847b7.png)
 ### Hi there 👋
  [![HitCount](https://hits.dwyl.com/simply-lisa/simply-lisa.svg?style=flat-square)](http://hits.dwyl.com/simply-lisa/simply-lisa)
+- 🔭 I’m currently working on a multifaceted project on Predicting Hotel Cancellation
+- 🌱 I’m currently learning AWS 
+- 💬 Ask me about anything 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I sing and play the piano
+  
+👩‍🎓 Before switching to Data Science, I'm an insurance enthusiast who got a Bachelor's Degree in Actuarial Science. 
+<br>
 
 Languages/Tech Stack:<br>
+
 ![mysql](https://user-images.githubusercontent.com/63976360/234907817-f91e5ab1-7660-42d1-b515-612a36a5f398.svg)
 ![python](https://user-images.githubusercontent.com/63976360/234906945-fd2e283a-b5c8-4f64-960d-27b999c4813d.svg)
 ![R](https://user-images.githubusercontent.com/63976360/234907155-29472a22-d52d-449f-a9f4-00add028dc91.svg)
