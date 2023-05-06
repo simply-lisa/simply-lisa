@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I sing and play the piano
   
-👩‍🎓 Before switching to Data Science, I'm an insurance enthusiast who got a Bachelor's Degree in Actuarial Science. 
+👩‍🎓 Before switching to Data Science, I was an insurance enthusiast who got a Bachelor's Degree in Actuarial Science. 
 <br>
 
 Languages/Tech Stack:<br>
