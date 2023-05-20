@@ -51,4 +51,8 @@ Languages/Tech Stack:<br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Lisa Asafo-Adjei/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asafoadjeilisa/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Lisa Asafo-Adjei/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asafoadjeilisa/1" alt="Recent Article 1"> 
+ 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Lisa Asafo-Adjei/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asafoadjeilisa/2" alt="Recent Article 2"> 
+
 </a>
