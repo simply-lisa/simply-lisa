@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 ![banner3](https://user-images.githubusercontent.com/63976360/234881376-8046f7fd-4454-4db8-a256-ab00a2f847b7.png)
-#### Welcome to my GitHub Page👋 I am Lisa, a Data Analyst obssesed with all things Data Science🙌🙌. Experienced data scientist skilled in leveraging advanced analytics and machine learning techniques to extract valuable insights and drive data-informed decision-making.
+#### Welcome to my GitHub Page👋 I am Lisa, a Data Analyst obssesed with all things Data 🙌🙌. Experienced data analyst skilled in leveraging advanced analytics and machine learning techniques to extract valuable insights and drive data-informed decision-making.
  [![HitCount](https://hits.dwyl.com/simply-lisa/simply-lisa.svg?style=flat-square)](http://hits.dwyl.com/simply-lisa/simply-lisa)
 - 🔭 I’m currently working on a multifaceted project on Predicting Hotel Cancellations
 - 🌱 I’m currently learning AWS 
