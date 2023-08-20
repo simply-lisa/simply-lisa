@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I sing and play the piano
   
-👩‍🎓 Before switching to Data Science, I was an insurance enthusiast who got a Bachelor's Degree in Actuarial Science. 
-<br>
+👩‍🎓 Before switching to Data Science, I was an insurance enthusiast who got a Bachelor's Degree in Actuarial Science.
 
 Languages/Tech Stack:<br>
 
@@ -34,14 +33,9 @@ Languages/Tech Stack:<br>
 ![keras](https://user-images.githubusercontent.com/63976360/234907933-1d71ebd7-1e0e-480b-bde0-fe7fac570f7f.svg)
 ![tensorflow](https://user-images.githubusercontent.com/63976360/234907994-60092c6c-c55c-4ec8-b553-f557844f5f4a.svg)
 ![conda](https://user-images.githubusercontent.com/63976360/234908085-ea3afe08-2435-4682-ac9a-585bee798f16.svg)
-<br>
 
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)<br>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ![pandas](https://user-images.githubusercontent.com/63976360/234907031-5ba2640b-273b-4cdf-b628-a18046ba98a5.svg)
 ![numpy](https://user-images.githubusercontent.com/63976360/234907099-2a6a5769-1939-4061-826f-017b76b53375.svg) 
 
